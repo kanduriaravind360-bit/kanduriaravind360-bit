@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aravind Kanduri
 
-<!--
-**kanduriaravind360-bit/kanduriaravind360-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering student at NIT Warangal interested in applying machine learning and data-driven methods to engineering and finance problems.
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Machine Learning
+* Natural Language Processing
+* Robotics
+* Vehicle Dynamics
+* Quantitative Modeling
+
+## Education
+
+National Institute of Technology Warangal
+B.Tech Mechanical Engineering
