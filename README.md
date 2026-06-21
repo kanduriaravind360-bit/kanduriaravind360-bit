@@ -14,3 +14,5 @@ Mechanical Engineering student at NIT Warangal interested in applying machine le
 
 National Institute of Technology Warangal
 B.Tech Mechanical Engineering
+
+Linkedin: https://www.linkedin.com/in/aravind-kanduri-625b5b40a/
